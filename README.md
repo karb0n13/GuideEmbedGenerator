@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/karb0n13/pen/aYvwBN.
-
- 
+Use this tool at https://karb0n13.github.io/GuideEmbedGenerator/
